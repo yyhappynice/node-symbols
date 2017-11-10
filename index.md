@@ -18,7 +18,7 @@ console.log(symbols('music', 'red') + ' ' + '~~~')
 symbols(bol, color)
 ```
 
-#### bol(string | required)
+#### bol (string | required)
 * success ✔
 * music ♬
 * error ✘
@@ -27,8 +27,9 @@ symbols(bol, color)
 * snowflake ❅
 * warning ⚠
 * arrow ➜
-
-#### color(string | Not required)
+* plane ✈
+* Other symbols or Arbitrary string
+#### color (string | Not required)
 * black
 * red
 * green
@@ -46,5 +47,6 @@ symbols(bol, color)
 * cyanBright
 * whiteBright
 
+you can use [chalk API](https://www.npmjs.com/package/chalk)
 ### License
 [MIT](https://github.com/yyhappynice/node-symbols/blob/master/LICENSE)
