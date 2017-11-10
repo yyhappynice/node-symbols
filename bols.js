@@ -30,6 +30,10 @@ let bols = {
   arrow: {
     bol: '➜',
     color: 'green'
+  },
+  plane: {
+    bol: '✈',
+    color: 'blue'
   }
 }
 
