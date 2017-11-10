@@ -1,20 +1,26 @@
 ## Welcome to use node-symbols
 
 ### Install
+
 ------
+
 ```js
 $ npm install node-symbols -S
 ```
 
 ### Quick Start
+
 ------
+
 ```js
 const symbols = require('node-symbols')
 console.log(symbols('music', 'red') + ' ' + '~~~')
 // ♬ ~~~
 ```
 ### API
+
 ------
+
 ```js
 symbols(bol, color)
 ```
@@ -30,7 +36,9 @@ symbols(bol, color)
 * arrow ➜
 * plane ✈
 * Other symbols or Arbitrary string
+
 ------
+
 #### color (string | Not required)
 * black
 * red
@@ -50,7 +58,11 @@ symbols(bol, color)
 * whiteBright
 
 you can use check [chalk API](https://www.npmjs.com/package/chalk)
+
 ------
+
 ### License
+
 ------
+
 [MIT](https://github.com/yyhappynice/node-symbols/blob/master/LICENSE)
