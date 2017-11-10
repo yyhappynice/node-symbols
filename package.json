@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/yyhappynice/node-symbols/issues"
   },
-  "homepage": "https://github.com/yyhappynice/node-symbols#readme",
+  "homepage": "https://yyhappynice.github.io/node-symbols",
   "dependencies": {
     "chalk": "^2.3.0"
   }
