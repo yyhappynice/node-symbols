@@ -47,4 +47,4 @@ symbols(bol, color)
 * whiteBright
 
 ### License
-[MIT]()
+[MIT](https://github.com/yyhappynice/node-symbols/blob/master/LICENSE)
