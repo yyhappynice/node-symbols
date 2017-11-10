@@ -29,6 +29,7 @@ symbols(bol, color)
 * arrow ➜
 * plane ✈
 * Other symbols or Arbitrary string
+
 #### color (string | Not required)
 * black
 * red
@@ -47,6 +48,7 @@ symbols(bol, color)
 * cyanBright
 * whiteBright
 
-you can use [chalk API](https://www.npmjs.com/package/chalk)
+you can use check [chalk API](https://www.npmjs.com/package/chalk)
+
 ### License
 [MIT](https://github.com/yyhappynice/node-symbols/blob/master/LICENSE)
