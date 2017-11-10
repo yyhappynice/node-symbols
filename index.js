@@ -1,10 +1,9 @@
 const chalk = require('chalk')
-const bols = require('./bols.js')
+const figures = require('figures')
 
 function symbols(bol, col) {
-  let validate = bol in bols
-  let color = col || (validate ? bols[bol].color : 'blue')
-  let cont = validate ? bols[bol].bol : bol
+  let color = col || 'blue'
+  let cont = figures[bol]
   return chalk[color](cont)
 }
 

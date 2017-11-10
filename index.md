@@ -26,16 +26,17 @@ symbols(bol, color)
 ```
 
 #### bol (string | required)
-* success ✔
-* music ♬
-* error ✘
-* mistake ✗
-* stars ★
-* snowflake ❅
+* tick ✔
+* cross ✖
+* square ▇
+* info ℹ
 * warning ⚠
-* arrow ➜
-* plane ✈
-* Other symbols or Arbitrary string
+* smiley ❅
+* warning ㋡
+* heart ♥
+* circleCross ⓧ
+
+learn you can check [figures](https://www.npmjs.com/package/figures)
 
 ------
 
@@ -57,12 +58,9 @@ symbols(bol, color)
 * cyanBright
 * whiteBright
 
-you can use check [chalk API](https://www.npmjs.com/package/chalk)
+ learn you can check [chalk API](https://www.npmjs.com/package/chalk)
 
 ------
 
 ### License
-
-------
-
 [MIT](https://github.com/yyhappynice/node-symbols/blob/master/LICENSE)
