@@ -1,0 +1,27 @@
+{
+  "name": "node-symbols",
+  "version": "0.0.1",
+  "description": "Colored symbols for various log levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyhappynice/node-symbols.git"
+  },
+  "keywords": [
+    "node",
+    "console",
+    "symbols"
+  ],
+  "author": "yyhappynice@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyhappynice/node-symbols/issues"
+  },
+  "homepage": "https://github.com/yyhappynice/node-symbols#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
