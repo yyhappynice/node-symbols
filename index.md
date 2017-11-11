@@ -1,5 +1,7 @@
 ## Welcome to use node-symbols
-
+![build](https://img.shields.io/travis/rust-lang/rust.svg)
+![MIT](https://img.shields.io/dub/l/vibe-d.svg)
+![stars](https://img.shields.io/amo/stars/dustman.svg)
 ### Install
 
 ------
@@ -14,8 +16,8 @@ $ npm install node-symbols -S
 
 ```js
 const symbols = require('node-symbols')
-console.log(symbols('music', 'red') + ' ' + '~~~')
-// ♬ ~~~
+console.log(symbols('tick', 'red') + ' ' + '~~~')
+// ✔ ~~~
 ```
 ### API
 
@@ -36,7 +38,7 @@ symbols(bol, color)
 * heart ♥
 * circleCross ⓧ
 
-learn you can check [figures](https://www.npmjs.com/package/figures)
+learn more you can check [figures](https://www.npmjs.com/package/figures)
 
 ------
 
@@ -58,7 +60,7 @@ learn you can check [figures](https://www.npmjs.com/package/figures)
 * cyanBright
 * whiteBright
 
- learn you can check [chalk API](https://www.npmjs.com/package/chalk)
+learn more you can check [chalk API](https://www.npmjs.com/package/chalk)
 
 ------
 
