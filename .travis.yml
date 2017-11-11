@@ -4,3 +4,7 @@ node_js:
   - "6"
 
 script: npm run test
+
+ranches:
+  only:
+    - master
