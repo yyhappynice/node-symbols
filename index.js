@@ -3,7 +3,7 @@ const figures = require('figures')
 
 function symbols(bol, col) {
   let color = col || 'blue'
-  let cont = figures[bol]
+  let cont = figures[bol] || bol
   return chalk[color](cont)
 }
 
