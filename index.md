@@ -2,6 +2,7 @@
 ![build](https://img.shields.io/travis/rust-lang/rust.svg)
 ![MIT](https://img.shields.io/dub/l/vibe-d.svg)
 ![stars](https://img.shields.io/amo/stars/dustman.svg)
+![npm](https://img.shields.io/npm/v/node-symbols.svg)
 ![download](https://img.shields.io/npm/dt/node-symbols.svg)
 ### Install
 
