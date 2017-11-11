@@ -16,7 +16,7 @@ $ npm install node-symbols -S
 
 ```js
 const symbols = require('node-symbols')
-console.log(symbols('tick', 'red') + ' ' + '~~~')
+console.log(symbols('tick', 'green') + ' ' + 'success~~~')
 // ✔ ~~~
 ```
 ### API
@@ -34,9 +34,10 @@ symbols(bol, color)
 * info ℹ
 * warning ⚠
 * smiley ❅
-* warning ㋡
+* smiley ㋡
 * heart ♥
 * circleCross ⓧ
+* Arbitrary string or symbols
 
 learn more you can check [figures](https://www.npmjs.com/package/figures)
 
