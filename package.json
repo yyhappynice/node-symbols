@@ -1,6 +1,6 @@
 {
   "name": "node-symbols",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Colored symbols for various log levels",
   "main": "index.js",
   "scripts": {
