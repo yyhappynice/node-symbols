@@ -35,9 +35,9 @@ symbols(bol, color)
 * square ▇
 * info ℹ
 * warning ⚠
-* smiley ❅
 * smiley ㋡
 * heart ♥
+* hamburger ☰
 * circleCross ⓧ
 * Arbitrary string or symbols
 
