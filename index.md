@@ -27,7 +27,7 @@ console.log(symbols('smiley', 'blue') + ' ' + 'blue~~~')
 console.log(symbols('other string', 'gray') + ' ' + 'gray~~~')
 // other string gray~~~
 console.log(symbols('https://www.npmjs.com', 'blue', 'underline'))
-// https://www.npmjs.com
+// https://www.npmjs.com | add link underline~~~
 
 ```
 ### API
