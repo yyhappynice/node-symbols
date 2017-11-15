@@ -18,8 +18,17 @@ $ npm install node-symbols -S
 
 ```js
 const symbols = require('node-symbols')
-console.log(symbols('tick', 'green') + ' ' + 'success~~~')
-// ✔ ~~~
+console.log(symbols('tick', 'green') + ' ' + 'green~~~')
+// ✔ green~~~
+console.log(symbols('cross', 'red') + ' ' + 'red~~~')
+// ✖ red~~~
+console.log(symbols('smiley', 'blue') + ' ' + 'blue~~~')
+// ㋡ blue~~~
+console.log(symbols('other string', 'gray') + ' ' + 'gray~~~')
+// other string gray~~~
+console.log(symbols('https://www.npmjs.com', 'blue', 'underline'))
+// https://www.npmjs.com
+
 ```
 ### API
 
